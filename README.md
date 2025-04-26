@@ -65,3 +65,14 @@ it will ask for name enter it and start the chatting...........
 
 
 
+
+
+**OUTPUT
+![Image](https://github.com/user-attachments/assets/9a3440d6-06c8-4e2d-910f-811ea0c3469b)
+
+
+
+
+
+
+
